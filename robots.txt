@@ -1,0 +1,3 @@
+User-agent: Googlebot
+User-agent: Googlebot
+Disallow: /*.gif$
